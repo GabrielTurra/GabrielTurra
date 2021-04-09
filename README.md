@@ -2,6 +2,8 @@
 
 Comecei na programação em 2018 durante o ensino médio e desde então venho me aprimorando neste mercado que me encantou desde o primeiro segundo.
 
+Atualmente estudando React.JS e todo seu ecossistema.
+
 <!--
 **GabrielTurra/GabrielTurra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
